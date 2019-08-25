@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "react-router-dom";
 
 export default class Nav extends React.Component {
     render() {
@@ -15,7 +16,7 @@ export default class Nav extends React.Component {
                         </button>
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul className="navbar-nav ml-auto color-blue">
-                                <li className="nav-item active color-blue nav-link color-blue mt-n2"><a className="nav-link color-blue" href="http://localhost:3000/search">Search</a>
+                                <li className="nav-item active color-blue nav-link color-blue mt-n2"><Link to ="/search" className="nav-link color-blue">Search</Link>
                                 </li>
                                 <li><i className="fa fa-bells"></i></li>
                                 <li class="nav-item dropdown">
@@ -23,10 +24,10 @@ export default class Nav extends React.Component {
                                         Categories
                                     </a>
                                     <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item bg-dark"style={{color:"white"}} href="http://localhost:3000/trending">Most Popular</a>
-                                        <a class="dropdown-item bg-dark"style={{color:"white"}} href="http://localhost:3000/music">Trending Music Videos</a>
-                                        <a class="dropdown-item bg-dark"style={{color:"white"}} href="http://localhost:3000/gaming">Trending Gaming Videos</a>
-                                        <a class="dropdown-item bg-dark"style={{color:"white"}} href="http://localhost:3000/science">Trending Science & Technology</a>
+                                        <Link to ="/trending" class="dropdown-item bg-dark"style={{color:"white"}}>Most Popular</Link>
+                                        <Link to = "/music" class="dropdown-item bg-dark"style={{color:"white"}}>Trending Music Videos</Link>
+                                        <Link to ="/gaming" class="dropdown-item bg-dark"style={{color:"white"}}>Trending Gaming Videos</Link>
+                                        <Link to ="/science" class="dropdown-item bg-dark"style={{color:"white"}} >Trending Science & Technology</Link>
                                         {/* <a class="dropdown-item" href="#">Sufi</a> */}
                                         <div class="dropdown-divider"></div>
                                     </div>
@@ -37,14 +38,14 @@ export default class Nav extends React.Component {
                                         Regional Language
                                             </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item bg-dark"style={{color:"white"}} href="http://localhost:3000/hindi">Hindi</a>
-                                        <a class="dropdown-item bg-dark"style={{color:"white"}} href="http://localhost:3000/punjabi">Punjabi</a>
-                                        <a class="dropdown-item bg-dark"style={{color:"white"}} href="http://localhost:3000/kannada">Kannada</a>
-                                        <a class="dropdown-item bg-dark"style={{color:"white"}} href="http://localhost:3000/english">English</a>
-                                        <a class="dropdown-item bg-dark"style={{color:"white"}} href="http://localhost:3000/religious">Bhakti</a>                   
+                                        <Link to = "/hindi" class="dropdown-item bg-dark"style={{color:"white"}}>Hindi</Link>
+                                        <Link to = "/punjabi" class="dropdown-item bg-dark"style={{color:"white"}}>Punjabi</Link>
+                                        <Link to = "/kannada" class="dropdown-item bg-dark"style={{color:"white"}}>Kannada</Link>
+                                        <Link to = "english" class="dropdown-item bg-dark"style={{color:"white"}}>English</Link>
+                                        <Link to = "religious" class="dropdown-item bg-dark"style={{color:"white"}} href="http://localhost:3000/religious">Bhakti</Link>                   
                                     </div>
                                 </li>
-                                <li className="nav-item "><a className="nav-link color-blue border border-success" href="http://localhost:3000/">Log Out</a></li>
+                                <li className="nav-item "><Link to = "/" className="nav-link color-blue border border-success" href="http://localhost:3000/">Log Out</Link></li>
                             </ul>
 
                         </div>
