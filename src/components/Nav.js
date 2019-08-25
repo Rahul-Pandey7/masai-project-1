@@ -8,8 +8,8 @@ export default class Nav extends React.Component {
                 <h1 className="display-4">My Youtube Channel</h1>
                 <div class="container">
                     <nav className="navbar navbar-expand-lg fixed-top color-blue bg-dark">
-                        <a className="navbar-brand logo_h" href="http://localhost:3000/userinterface"><img src="download.png" style={{ width: "85px", height: "85px;" }} />
-                        </a>
+                        <Link to = "userinterface" className="navbar-brand logo_h"><img src="download.png" style={{ width: "85px", height: "85px;" }} />
+                        </Link>
                         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span className="navbar-toggler-icon"></span>
