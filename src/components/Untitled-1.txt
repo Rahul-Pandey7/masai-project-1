@@ -1,0 +1,444 @@
+access_token: "ya29.GltwB0XrXKhY-9ea2g_NpuTkQ1ig_AoBxw0Mb9jDW-dE5nKrYI7HScc8WEaJQXpBgmO8Z9_5sua69Pd5_GTIrGUa93H-KxYL0NtQVAjBZCvQWhfCTiS_yicoiNBq"
+Bearer ya29.GlxxB3xVn8vzrqT7UWa9TxhJmf2g5un-s5dSmhE_Nv5rjowyFe_Hds8MFnCVuY8xaTsESWZY-iNZHkVjzHBPhx1TUx-7brXEAqCg8dPTzNHJjyI-v7luZnRV884Y8w
+
+
+
+
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ZC4hJaU8LTg_iRtJDLWXFuq9XRc\"",
+ "nextPageToken": "CAUQAA",
+ "pageInfo": {
+  "totalResults": 200,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/K7kXMCpRo8IPlye18--ElW500gk\"",
+   "id": "tQ0mzXRk-oM",
+   "snippet": {
+    "publishedAt": "2019-08-27T04:30:11.000Z",
+    "channelId": "UCbTLwN10NoCU4WDzLf1JMOA",
+    "title": "War | Official 4K Trailer | Hrithik Roshan | Tiger Shroff | Vaani Kapoor | Releasing 2 October 2019",
+    "description": "► Subscribe Now: https://goo.gl/xs3mrY 🔔 Stay updated!\n\nThis WAR has 2 sides! Team Hrithik or Team Tiger - Which side are you on?\n#WarTrailer #HrithikvsTiger\n\nStay in the filmy loop:\n► Like us on Facebook: https://facebook.com/yrf\n► Follow us on Twitter: https://twitter.com/yrf\n► Follow us on Instagram: http://instagram.com/yrf\n► Visit us on: https://www.yashrajfilms.com\n© Yash Raj Films Pvt. Ltd.\n\nMovie Credits:\nStarring: Hrithik Roshan, Tiger Shroff, Vaani Kapoor\nDirector: Siddharth Anand\nProducer: Aditya Chopra\nStory: Aditya Chopra, Siddharth Anand\nMusic: Vishal and Shekhar\nLyrics: Kumaar\nDirector of Photography: Benjamin Jasper\nBackground Music [Trailer]: John Stewart Eduri\nRelease Date: 2 October 2019\n\n#YRFnewreleases #yrf #HrithikRoshan #TigerShroff #VaaniKapoor #SiddharthAnand #WAR",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tQ0mzXRk-oM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tQ0mzXRk-oM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tQ0mzXRk-oM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tQ0mzXRk-oM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tQ0mzXRk-oM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YRF",
+    "tags": [
+     "Hrithik Roshan",
+     "Tiger Shroff",
+     "War Trailer",
+     "War Official Trailer",
+     "War Movie Trailer",
+     "Hrithik Roshan New Movie Trailer",
+     "Waar Trailer",
+     "New Movie Trailer",
+     "New Movie Trailers 2019",
+     "Latest Movie Trailer",
+     "Bollywood Movie Trailer",
+     "Hindi Movie Trailer",
+     "Trailers 2019",
+     "New Hindi Movie Trailer",
+     "War Trailers 2019",
+     "2019 Movie Trailer",
+     "War Trailer Hindi",
+     "War Film Trailer",
+     "Trailer Of War Movie",
+     "War 4K Trailer",
+     "Hindi Song New",
+     "War",
+     "Tiger Shroff New Movie Trailer",
+     "War Trailer Teaser"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "War | Official 4K Trailer | Hrithik Roshan | Tiger Shroff | Vaani Kapoor | Releasing 2 October 2019",
+     "description": "► Subscribe Now: https://goo.gl/xs3mrY 🔔 Stay updated!\n\nThis WAR has 2 sides! Team Hrithik or Team Tiger - Which side are you on?\n#WarTrailer #HrithikvsTiger\n\nStay in the filmy loop:\n► Like us on Facebook: https://facebook.com/yrf\n► Follow us on Twitter: https://twitter.com/yrf\n► Follow us on Instagram: http://instagram.com/yrf\n► Visit us on: https://www.yashrajfilms.com\n© Yash Raj Films Pvt. Ltd.\n\nMovie Credits:\nStarring: Hrithik Roshan, Tiger Shroff, Vaani Kapoor\nDirector: Siddharth Anand\nProducer: Aditya Chopra\nStory: Aditya Chopra, Siddharth Anand\nMusic: Vishal and Shekhar\nLyrics: Kumaar\nDirector of Photography: Benjamin Jasper\nBackground Music [Trailer]: John Stewart Eduri\nRelease Date: 2 October 2019\n\n#YRFnewreleases #yrf #HrithikRoshan #TigerShroff #VaaniKapoor #SiddharthAnand #WAR"
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT2M26S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "4646971",
+    "likeCount": "409278",
+    "dislikeCount": "9320",
+    "favoriteCount": "0",
+    "commentCount": "33720"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ikZMt-HWf2lbBESjkV_R_VBkgNg\"",
+   "id": "ARWbsGi-dWU",
+   "snippet": {
+    "publishedAt": "2019-08-25T07:31:00.000Z",
+    "channelId": "UC7eHZXheF8nVOfwB2PEslMw",
+    "title": "Baarish Ke Side Effects | Ashish Chanchlani",
+    "description": "Shoot Videos & Earn Money! Win Rs. 5000!\n Download VMate App: http://bit.ly/2NtHmRC  &\nbe VMate Par Lakhpati: http://bit.ly/31JTRMx\n\nAa gaya humara new video\nWo bhi is mausam par\nPresenting to you a very wet video\n“BAARISH KE SIDE EFFECTS”\ncomment your favourite scene and dialogue from the video!!\n\n\nStarring : Akash Dodeja, Simran Dhanwani, Kunal Chhabhria, Anmol Sachar, Rohit Sadhwani, Jashan sirwani, Tanish Sirwani & Grishim nawani.\n\nProduction :\n\nSet handling by : Jashan Sirwani\n\nSound handling by : Tanish Sirwani & Grishim Nawani\n\nShot By : Siddharth Kedare & Kunal Chhabhria\n\nEdited by : Anmol Sachar, Kunal Chhabria & \nAshish Chanchlani\n\nWritten & Directed by Ashish Chanchlani",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ARWbsGi-dWU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ARWbsGi-dWU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ARWbsGi-dWU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ARWbsGi-dWU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ARWbsGi-dWU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ashish chanchlani vines",
+    "tags": [
+     "ashish chanchlani",
+     "ashish chanchlani new",
+     "ashish chanchlani new video",
+     "aashish",
+     "ashish chanchlani baarish video",
+     "ashish chanchlani rainy",
+     "ashish baarish video",
+     "ashish rainy",
+     "ashish monsoon video",
+     "funny baarish video",
+     "baarish ke side effects",
+     "monsoon funny videos",
+     "rainy funny videos",
+     "ashish rain video",
+     "bijlee ka bill tera baap bharega",
+     "ashish ola funny",
+     "ashish lonavala video",
+     "ashish make up video"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Baarish Ke Side Effects | Ashish Chanchlani",
+     "description": "Shoot Videos & Earn Money! Win Rs. 5000!\n Download VMate App: http://bit.ly/2NtHmRC  &\nbe VMate Par Lakhpati: http://bit.ly/31JTRMx\n\nAa gaya humara new video\nWo bhi is mausam par\nPresenting to you a very wet video\n“BAARISH KE SIDE EFFECTS”\ncomment your favourite scene and dialogue from the video!!\n\n\nStarring : Akash Dodeja, Simran Dhanwani, Kunal Chhabhria, Anmol Sachar, Rohit Sadhwani, Jashan sirwani, Tanish Sirwani & Grishim nawani.\n\nProduction :\n\nSet handling by : Jashan Sirwani\n\nSound handling by : Tanish Sirwani & Grishim Nawani\n\nShot By : Siddharth Kedare & Kunal Chhabhria\n\nEdited by : Anmol Sachar, Kunal Chhabria & \nAshish Chanchlani\n\nWritten & Directed by Ashish Chanchlani"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT12M54S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "13920749",
+    "likeCount": "1272065",
+    "dislikeCount": "37909",
+    "favoriteCount": "0",
+    "commentCount": "52871"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/xXxpqcFgBoeVAPACDSYgDvQScT8\"",
+   "id": "NZLUYfXS0qU",
+   "snippet": {
+    "publishedAt": "2019-08-26T11:29:03.000Z",
+    "channelId": "UCLtNvbkqea8wN_kGtfgx_Mw",
+    "title": "Pahadan - Rajat Nagpal | Riyaz Aly | Avneet Kaur | Gurnazar | Latest Punjabi Song 2019",
+    "description": "Anshul Garg Presents Desi Music Factory’s ‘Pahadan’ by Rajat Nagpal. \nThere’s something special about Pahadi girls! Comment below if you agree! \n\nSubscribe to DMF - http://bit.ly/DMF-Subscribe\n\nSong Name - Pahadan Song\nStarring - Rajat Nagpal, Riyaz Ali & Avneet Kaur\nSinger - Rajat Nagpal\nMusic - Rajat Nagpal\nLyrics - Gurnazar Chattha\n\n\nProduced By Anshul Garg\nSpecial thanks - Raghav Sharma\n\nMixed by Abhishek Kaushik at BeatSpot \nMastered at BeatSpot\n\n\nProduction House - Notorious Owl Pictures \nVideo directed by - Gaurav Kumar Bajaj & Geet\nDirector of photography -  Syed Tanveer Riyaz\nEditor - Manish Shirke\nVFX - prathmesh sampada parab & Prathmesh chaukekar\nAssociate Director - VK Singh Mom\nCostume Stylist -  Aparna kitey\nArt Director - Ankula varma\nMake Up- Isha Singarane\nSupporting cast by - Dinesh Sudarshan Soi \nPost production studio - The Techno Post.\nDI Colorist: Krishna Muthaye\nPost Production Supervisor - Kunal Ravi Tiwari\nPackaging -  Nadeem Akhtar (paper boyz)\n\nOnline Promotion - Being Digital\nDigital Marketing - Prateek Jain (Gimmick Digital)\nDistribution - Piyush Chandak\n\nInstagram - https://instagram.com/desimusicfactory\nFacebook - https://www.facebook.com/DesiMusicFactory/\nTwitter - https://twitter.com/DesiMFactory\nTikTok - https://m.tiktok.com/h5/share/usr/6523603637279659023.html \nSnapchat - DMFRecords\n\n#RajatNagpal #RiyazAly #AvneetKaur",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NZLUYfXS0qU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NZLUYfXS0qU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NZLUYfXS0qU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NZLUYfXS0qU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/NZLUYfXS0qU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Desi Music Factory",
+    "tags": [
+     "pahadan rajat nagpal",
+     "pahadan riyaz",
+     "pahadan avneet",
+     "latest punjabi song 2019",
+     "2019 hit songs",
+     "new hindi song 2019",
+     "yaari hai",
+     "yaari avneet kaur",
+     "punjabi songs",
+     "neha Kakkar",
+     "tony kakkar",
+     "high rated gabru",
+     "lahore",
+     "pagal hai",
+     "saaki saaki",
+     "pachtaoge",
+     "riyaz ali",
+     "riyaz ali girlfriend",
+     "avneet kaur boyfriend",
+     "sorry song",
+     "lehenga",
+     "jass manak",
+     "guri",
+     "guri jatti",
+     "jass manak lehenga",
+     "jannat zubair",
+     "pahadan"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Pahadan - Rajat Nagpal | Riyaz Aly | Avneet Kaur | Gurnazar | Latest Punjabi Song 2019",
+     "description": "Anshul Garg Presents Desi Music Factory’s ‘Pahadan’ by Rajat Nagpal. \nThere’s something special about Pahadi girls! Comment below if you agree! \n\nSubscribe to DMF - http://bit.ly/DMF-Subscribe\n\nSong Name - Pahadan Song\nStarring - Rajat Nagpal, Riyaz Ali & Avneet Kaur\nSinger - Rajat Nagpal\nMusic - Rajat Nagpal\nLyrics - Gurnazar Chattha\n\n\nProduced By Anshul Garg\nSpecial thanks - Raghav Sharma\n\nMixed by Abhishek Kaushik at BeatSpot \nMastered at BeatSpot\n\n\nProduction House - Notorious Owl Pictures \nVideo directed by - Gaurav Kumar Bajaj & Geet\nDirector of photography -  Syed Tanveer Riyaz\nEditor - Manish Shirke\nVFX - prathmesh sampada parab & Prathmesh chaukekar\nAssociate Director - VK Singh Mom\nCostume Stylist -  Aparna kitey\nArt Director - Ankula varma\nMake Up- Isha Singarane\nSupporting cast by - Dinesh Sudarshan Soi \nPost production studio - The Techno Post.\nDI Colorist: Krishna Muthaye\nPost Production Supervisor - Kunal Ravi Tiwari\nPackaging -  Nadeem Akhtar (paper boyz)\n\nOnline Promotion - Being Digital\nDigital Marketing - Prateek Jain (Gimmick Digital)\nDistribution - Piyush Chandak\n\nInstagram - https://instagram.com/desimusicfactory\nFacebook - https://www.facebook.com/DesiMusicFactory/\nTwitter - https://twitter.com/DesiMFactory\nTikTok - https://m.tiktok.com/h5/share/usr/6523603637279659023.html \nSnapchat - DMFRecords\n\n#RajatNagpal #RiyazAly #AvneetKaur"
+    },
+    "defaultAudioLanguage": "hi"
+   },
+   "contentDetails": {
+    "duration": "PT3M30S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "4858176",
+    "likeCount": "378181",
+    "dislikeCount": "53756",
+    "favoriteCount": "0",
+    "commentCount": "21050"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/8ZRZGroJ4qFoQrOj9eQO2FqP0IM\"",
+   "id": "o46OEUJGKJo",
+   "snippet": {
+    "publishedAt": "2019-08-26T12:30:02.000Z",
+    "channelId": "UClZF7OsrECe3t_ADrjZEh_Q",
+    "title": "Jatti : Guri Feat. Jannat Zubair (Full Video) Satti Dhillon | Romantic Song | GK.DIGITAL | Geet MP3",
+    "description": "Geet MP3 & Gk.Digital Presenting Official Music Video Of \"Jatti\"\nMake Sure You Will Like It And Spread it As Much As You Can. \n\n\n\nSubscribe To Our Channel For Upcoming Songs :  http://bit.ly/SubscribeGEETMP3\n\nAudio Available On Gaana : \n\n\nSong : Jatti\nSinger : Guri\nLyrics : Guri\nComposer : Guri\nFeaturing : Jannat Zubair\nMusic : Snappy\nMixing & Mastering : Arron\nVideo Director : Satti Dhillon\nDop : Vahe Hambarcumyan\nProduction Maneger : Mary Mirzakhanyan\nMakeup Artist : Liana Ayvazyan\nHairdresser Artist : Gevorbabumyan Beauty By Julhakyans\nCasting by : Rammy Singh & Deepesh Rakheja\nEditor : Arsen Saribekyan\nPhotography : Vipul Photography\nPublicity Design : Aman Kalsi\nArtist Management : Gurbaksh Singh Dhillon\nProduced By : Kv Dhillon\nOnline Promotions : Gk.Digital\nMusic Label : Geet MP3\n\n\n\n\nMusic Consultant & Digital Partner : Gk.Digital\nInstagram : https://www.instagram.com/GK.DIGITAL\n\n\nEnjoy and stay connected with us 📲https://www.youtube.com/channel/UClZF7OsrECe3t_ADrjZEh_Q/join\n\nWebsite : http://GeetMP3.com\nYouTube : https://www.youtube.com/c/GeetMP3 \nFacebook : https://www.facebook.com/GEETMP3OFFICIAL\nInstagram : https://www.instagram.com/GEETMP3\nTwitter : https://twitter.com/GEETMP3\nSnapChat : https://www.snapchat.com/add/GEETMP3",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/o46OEUJGKJo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/o46OEUJGKJo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/o46OEUJGKJo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/o46OEUJGKJo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/o46OEUJGKJo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Geet MP3",
+    "tags": [
+     "latest punjabi songs",
+     "latest punjabi songs 2019",
+     "gk digital",
+     "new punjabi songs",
+     "new punjabi songs 2019",
+     "romantic song",
+     "love songs",
+     "hit punjabi songs",
+     "trending songs",
+     "geet mp3",
+     "latest songs",
+     "new punjabi song",
+     "new punjabi song 2019",
+     "jatti guri",
+     "guri jatti",
+     "jatti song",
+     "guri",
+     "guri songs",
+     "guri romantic songs",
+     "guri new song",
+     "guri all song",
+     "guri jatti song",
+     "guri jatti song video",
+     "jannat zubair",
+     "guri jannat zubair",
+     "jannat zubair video",
+     "jatti",
+     "romantic video song"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-GB",
+    "localized": {
+     "title": "Jatti : Guri Feat. Jannat Zubair (Full Video) Satti Dhillon | Romantic Song | GK.DIGITAL | Geet MP3",
+     "description": "Geet MP3 & Gk.Digital Presenting Official Music Video Of \"Jatti\"\nMake Sure You Will Like It And Spread it As Much As You Can. \n\n\n\nSubscribe To Our Channel For Upcoming Songs :  http://bit.ly/SubscribeGEETMP3\n\nAudio Available On Gaana : \n\n\nSong : Jatti\nSinger : Guri\nLyrics : Guri\nComposer : Guri\nFeaturing : Jannat Zubair\nMusic : Snappy\nMixing & Mastering : Arron\nVideo Director : Satti Dhillon\nDop : Vahe Hambarcumyan\nProduction Maneger : Mary Mirzakhanyan\nMakeup Artist : Liana Ayvazyan\nHairdresser Artist : Gevorbabumyan Beauty By Julhakyans\nCasting by : Rammy Singh & Deepesh Rakheja\nEditor : Arsen Saribekyan\nPhotography : Vipul Photography\nPublicity Design : Aman Kalsi\nArtist Management : Gurbaksh Singh Dhillon\nProduced By : Kv Dhillon\nOnline Promotions : Gk.Digital\nMusic Label : Geet MP3\n\n\n\n\nMusic Consultant & Digital Partner : Gk.Digital\nInstagram : https://www.instagram.com/GK.DIGITAL\n\n\nEnjoy and stay connected with us 📲https://www.youtube.com/channel/UClZF7OsrECe3t_ADrjZEh_Q/join\n\nWebsite : http://GeetMP3.com\nYouTube : https://www.youtube.com/c/GeetMP3 \nFacebook : https://www.facebook.com/GEETMP3OFFICIAL\nInstagram : https://www.instagram.com/GEETMP3\nTwitter : https://twitter.com/GEETMP3\nSnapChat : https://www.snapchat.com/add/GEETMP3"
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT3M42S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "3849706",
+    "likeCount": "283956",
+    "dislikeCount": "16776",
+    "favoriteCount": "0",
+    "commentCount": "13613"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/3vb4pBk2I35vu1eo8udGm2Yv1ZQ\"",
+   "id": "en6qrGybhQU",
+   "snippet": {
+    "publishedAt": "2019-08-24T17:30:00.000Z",
+    "channelId": "UCX_uPA_dGf7wXjuMEaSKLJA",
+    "title": "Vardi ka dum (Adanga Maru) Hindi Dubbed Full Movie | Jayam Ravi, Raashi Khanna | Karthik Thangavel",
+    "description": "\"Watch #VardiKaDum (#Adangamaru) New Released Hindi Dubbed Full Movie Starring \n#JayamRavi, #RaashiKhanna , Directed by Karthik Thangavel.\n\nCredits: \nMovie Name : VardiKaDum ( Adangamaru )\nDirector : Karthik Thangavel \nMusic : Sam C.S.\nProducer : Aditya Music (India) Pvt. Ltd\n\nMovie Synopsis :\n\nFour youngsters, sons of rich & affluent businessmen in the city. Subash (Ravi) is a young SI who respects & safeguards public but works under corrupt seniors. Subash comes to know that, these four rich guys had raped & murdered an innocent girl & have been doing same with many other girls. In process to arrest & target these criminals, Subash also gets suspended, however returns back. The rest of the film is about how Subash turns a vigilante and uses his cyber knowledge to get it sorted.\n\n\nExclusively on Aditya Movies\n\nFor More Movies\nSubscribe Youtube : https://www.youtube.com/adityamovies\n\nFollow us on\nFaceBook - https://www.facebook.com/adityamovies/\nInstagram - https://www.instagram.com/adityamovies/\"\n\n------------------------------------------------------------------\nFor More Full Movies , Subscribe to:\n►https://www.youtube.com/user/adityacinema\nFor Hit & Latest Music:\n►https://www.youtube.com/user/adityamusic\nFor Devotional Music: \n►https://www.youtube.com/user/adityadevotional\n►Like us on Facebook: http://www.facebook.com/adityamovies\n►Follow us on Twitter: http://www.twitter.com/adityamusic\n►Follow us on Instagram: https://www.instagram.com/adityamovies\n►Follow us on LinkedIn: http://bit.ly/2Pp6ze3\n►Circle us: https://plus.google.com/+adityamusic\n\n© 2019 Aditya Movies India Pvt. Ltd.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/en6qrGybhQU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/en6qrGybhQU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/en6qrGybhQU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/en6qrGybhQU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/en6qrGybhQU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Aditya Movies",
+    "tags": [
+     "Vardi ka dum",
+     "Adanga Maru",
+     "Vardi Ka Dum Latest Hindi Dubbed Movie",
+     "Vardi Ka Dum new Hindi Dubbed Movie",
+     "Vardi Ka Dum new release Hindi Dubbed Movie",
+     "Vardi Ka Dum Hindi Dubbed Movie",
+     "Vardi Ka Dum hindi dubbed full movie",
+     "Rashi Khanna Hindi Dubbed Movie",
+     "Vardi Ka Dum Jayam Ravi full movie hindi dubbed 2019",
+     "Vardi Ka Dum New south movie 2019 hindi dubbed",
+     "Jayam Ravi and Rashi Khanna hindi dubbed 2019",
+     "Vardi Ka Dum South hindi dubbed",
+     "New release Hindi Dubbed",
+     "Adangamaru Hindi Dubbed"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Vardi ka dum (Adanga Maru) Hindi Dubbed Full Movie | Jayam Ravi, Raashi Khanna | Karthik Thangavel",
+     "description": "\"Watch #VardiKaDum (#Adangamaru) New Released Hindi Dubbed Full Movie Starring \n#JayamRavi, #RaashiKhanna , Directed by Karthik Thangavel.\n\nCredits: \nMovie Name : VardiKaDum ( Adangamaru )\nDirector : Karthik Thangavel \nMusic : Sam C.S.\nProducer : Aditya Music (India) Pvt. Ltd\n\nMovie Synopsis :\n\nFour youngsters, sons of rich & affluent businessmen in the city. Subash (Ravi) is a young SI who respects & safeguards public but works under corrupt seniors. Subash comes to know that, these four rich guys had raped & murdered an innocent girl & have been doing same with many other girls. In process to arrest & target these criminals, Subash also gets suspended, however returns back. The rest of the film is about how Subash turns a vigilante and uses his cyber knowledge to get it sorted.\n\n\nExclusively on Aditya Movies\n\nFor More Movies\nSubscribe Youtube : https://www.youtube.com/adityamovies\n\nFollow us on\nFaceBook - https://www.facebook.com/adityamovies/\nInstagram - https://www.instagram.com/adityamovies/\"\n\n------------------------------------------------------------------\nFor More Full Movies , Subscribe to:\n►https://www.youtube.com/user/adityacinema\nFor Hit & Latest Music:\n►https://www.youtube.com/user/adityamusic\nFor Devotional Music: \n►https://www.youtube.com/user/adityadevotional\n►Like us on Facebook: http://www.facebook.com/adityamovies\n►Follow us on Twitter: http://www.twitter.com/adityamusic\n►Follow us on Instagram: https://www.instagram.com/adityamovies\n►Follow us on LinkedIn: http://bit.ly/2Pp6ze3\n►Circle us: https://plus.google.com/+adityamusic\n\n© 2019 Aditya Movies India Pvt. Ltd."
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT2H18M23S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "8381532",
+    "likeCount": "129725",
+    "dislikeCount": "7281",
+    "favoriteCount": "0",
+    "commentCount": "6153"
+   }
+  }
+ ]
+}

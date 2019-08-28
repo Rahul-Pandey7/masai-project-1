@@ -1,5 +1,6 @@
 import React from "react";
 import axios from "axios";
+import Nav from "./Nav";
 
 export default class Kannada extends React.Component {
     constructor(props) {
@@ -25,7 +26,10 @@ export default class Kannada extends React.Component {
     render() {
         return (
             <div>
-                <h1 className="display-4 text-center text-success">Popular Kannada Videos</h1>
+                <Nav/>
+           
+            <div style={{marginTop:"100px"}}>
+            <h1 className="display-3 text-info text-center"style={{fontFamily:'Roboto Mono'}}>Popular Kannada Videos</h1>
                 <div className="container-fluid">
                     <div className="row">
                         {this.state.collections.map((item) => {
@@ -42,6 +46,7 @@ export default class Kannada extends React.Component {
                         }
                     </div>
                 </div>
+            </div>
             </div>
         );
     }

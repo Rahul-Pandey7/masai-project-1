@@ -1,5 +1,6 @@
 import React from "react";
 import axios from "axios";
+import Nav from "./Nav";
 
 export default class Search extends React.Component {
     constructor(props) {
@@ -10,13 +11,13 @@ export default class Search extends React.Component {
         }
     }
 
-    get_video = (e) => {
-        this.setState({
-            keyword: e.target.value
-        })
-    }
+    // get_video = (e) => {
+    //     this.setState({
+    //         keyword: e.target.value
+    //     })
+    // }
 
-    search = () => {
+    componentDidMount(){
         axios({
             method: 'get',
             url: "https://www.googleapis.com/youtube/v3/search/",
@@ -24,8 +25,8 @@ export default class Search extends React.Component {
                 "key": "AIzaSyCYnz2BIh3II4v9LlDizrr6F2aj7LVCAU0",
                 "part": "snippet",
                 "maxResults": "27",
-                "safeSearch" : "strict",
-                "q": this.state.keyword,
+                "safeSearch" : this.props.match.params.id,
+                "q": this.props.match.params.name,
             }
         })
 
@@ -40,10 +41,12 @@ export default class Search extends React.Component {
     }
 
     render() {
-        console.log(this.state.collections)
+        console.log(this.props)
         return (
             <div>
-                <div className="container">
+                <Nav/>
+             <div style={{marginTop:"100px"}}></div>
+                {/* <div className="container">
                     <div className="row m-0 p-0">
                         <div className="col col-12 col-lg-10 m-0 p-0 text-center">
                             <input type="text" name="search" onChange={this.get_video}
@@ -53,7 +56,7 @@ export default class Search extends React.Component {
                                 onClick={this.search}>Search</button>
                         </div>
                     </div>
-                </div><br /> <br />
+                </div><br /> <br /> */} 
                 <div className="container-fluid">
                     <div className="row">
                         {this.state.collections.map((item) => {

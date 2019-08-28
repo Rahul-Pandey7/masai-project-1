@@ -1,5 +1,6 @@
 import React from "react";
 import axios from "axios";
+import Nav from "./Nav";
 
 export default class English extends React.Component {
     constructor(props) {
@@ -24,8 +25,10 @@ export default class English extends React.Component {
     }
     render() {
         return (
-            <div>
-                <h1 className="display-4 text-center text-success">English Songs Videos</h1>
+        <div>
+            <Nav />
+            <div style={{marginTop:"100px"}}>
+            <h1 className="display-3 text-info text-center"style={{fontFamily:'Roboto Mono'}}>English Songs Videos</h1>
                 <div className="container-fluid">
                     <div className="row">
                         {this.state.collections.map((item) => {
@@ -35,6 +38,10 @@ export default class English extends React.Component {
                                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                                     <div class="card-body">
                                         <h4 style={{ fontFamily: "Ropa Sans, sans-serif" }} class="card-title">{item.snippet.title}</h4>
+                                        {/* <h5 style={{ fontFamily: "Ropa Sans, sans-serif" }}>Views:{item.statistics.viewCount}</h5>
+                                        <h5 style={{ fontFamily: "Ropa Sans, sans-serif" }}>Likes:{item.statistics.likeCount}</h5>
+                                        <h5 style={{ fontFamily: "Ropa Sans, sans-serif" }}>No of Comments:{item.statistics.commentCount}</h5>
+                                         */}
                                     </div>
                                 </div>
                             )
@@ -43,6 +50,7 @@ export default class English extends React.Component {
                     </div>
                 </div>
             </div>
+        </div>
         );
     }
 }
